@@ -1,0 +1,11 @@
+#!/bin/sh /etc/rc.common
+# Copyright (C) 2006 OpenWrt.org
+
+START=99
+start() {
+	echo "set to WLLLL!!!!!"
+	reg w 10000064 0x0
+	reg w 1000003c 0xe001ff
+}
+
+	

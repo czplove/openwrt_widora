@@ -48,7 +48,6 @@ ramips_setup_interfaces()
 	linkits7688 | \
 	linkits7688d | \
 	widora | \
-	widora32m | \
 	microwrt | \
 	w150m | \
 	zte-q7 | \
@@ -177,6 +176,7 @@ ramips_setup_interfaces()
 	f5d8235-v2 | \
 	hg255d | \
 	rt-n14u | \
+	widora32m | \
 	wrtnode | \
 	wt3020 | \
 	ur-326n4g | \
